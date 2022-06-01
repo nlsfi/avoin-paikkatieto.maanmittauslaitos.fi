@@ -8,7 +8,7 @@ Information on how to acquire the API key available at
 - <https://www.maanmittauslaitos.fi/kartat-ja-paikkatieto/asiantuntevalle-kayttajalle/paikkatietojen-rajapintapalvelut/api-avaimen> 
 
 Information on the OGC Features and geocoding services (in finnish)
-- <https://www.maanmittauslaitos.fi/kartat-ja-paikkatieto/asiantuntevalle-kayttajalle/kartta-ja-paikkatietojen-rajapintapalvelut-26> 
+- <https://www.maanmittauslaitos.fi/rajapinnat/paikkatiedot>
 
 Related
 
