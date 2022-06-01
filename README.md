@@ -1,4 +1,3 @@
-see
 
 # avoin-paikkatieto.maanmittauslaitos.fi
 
